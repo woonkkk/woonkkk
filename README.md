@@ -1,16 +1,14 @@
-## Hi there 👋
+<h1 align="center">Hello 👋, I'm Kanita Karunkittikun 🌼 </h1> 
+<h3 align="center">I'm deeply interested in data analytics and committed to mastering global tools like Power BI for effective analysis and visualization of complex datasets.</h3>
 
-<!--
-**woonkkk/woonkkk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning **Next.js, Power BI tool,**
 
-Here are some ideas to get you started:
+- 📫 How to reach me **Kanitakarunwn@gmail.com**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎉 Fun Fact: Thanks to ChatGPT, I've found my AI BFF! Thanks for always being there, ChatGPT! 🤖👯‍♂️🌟
+- 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/kanita karunkittikun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kanita karunkittikun" height="30" width="40" /></a>
+<a href="https://instagram.com/u2o2n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="u2o2n" height="30" width="40" /></a>
+</p>
