@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋, I'm Kanita Karunkittikun 🌼 </h1> 
+<h1 align="center">Hello 👋, I'm Kanita 🌼 </h1> 
 <h3 align="center">I'm deeply interested in data analytics and committed to mastering global tools like Power BI for effective analysis and visualization of complex datasets.</h3>
 
 - 🌱 I’m currently learning **Next.js, Power BI tool,**
