@@ -1,7 +1,12 @@
 <h1 align="center">Hello 👋, I'm Kanita 🌼 </h1> 
-<h3 align="center">I'm deeply interested in data analytics and committed to mastering global tools like Power BI for effective analysis and visualization of complex datasets.</h3>
 
-- 🌱 I’m currently learning **Next.js, Power BI tool,**
+<div align="center">
+  <img src="https://i.pinimg.com/originals/a6/70/91/a67091c003173f3cd58801f345392dde.gif" alt="Coding GIF" width="500" height="300">
+</div>
+
+<h4 align="center">I'm deeply interested in data analytics and committed to mastering global tools like Power BI for effective analysis and visualization of complex datasets.</h4>
+
+- 🌱 I’m currently learning **Next.js, Power BI tool**
 
 - 📫 How to reach me **Kanitakarunwn@gmail.com**
 
