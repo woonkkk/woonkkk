@@ -4,7 +4,7 @@
   <img src="https://i.pinimg.com/originals/a6/70/91/a67091c003173f3cd58801f345392dde.gif" alt="Coding GIF" width="500" height="300">
 </div>
 
-<h4 align="center">As a third-year student at ICT Mahidol University, I focus on the database and Intelligence System track. My passion lies in data analytics, and I'm dedicated to honing my skills with global tools such as Power BI and Tableau prep to analyze and visualize intricate datasets effectively.</h4>
+<h4 align="center"> My passion lies in data analytics, and I'm dedicated to honing my skills with global tools such as Power BI and Tableau prep to analyze and visualize intricate datasets effectively.</h4>
 
 - 🌱 I’m currently learning **Next.js, Power BI tool**
 
