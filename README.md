@@ -9,8 +9,6 @@
 - 🌱 I’m currently learning **Next.js, Power BI tool**
 
 - 📫 How to reach me **Kanitakarunwn@gmail.com**
-
-- 🎉 Fun Fact: Thanks to ChatGPT, I've found my AI BFF! Thanks for always being there, ChatGPT! 🤖👯‍♂️🌟
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
